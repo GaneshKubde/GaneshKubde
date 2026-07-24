@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Ganesh Kubde
+# ✨ Welcome! I'm Ganesh Kubde
 
 ### AI Engineer | Agentic AI | Multi-Agent Systems | LangGraph | Azure OpenAI
 
