@@ -1,3 +1,35 @@
+# 👨‍💻 Agentic AI Engineer Profile
+
+<br>
+
+<div align="center">
+  <img src="https://i.imgur.com/uG9V8Nl.png" alt="Hey! I am... Agentic AI Engineer Banner" width="100%">
+</div>
+
+<br>
+
+## 🚀 About Me
+
+- 🤖 Specializing in **Autonomous AI Agents** and **Multi-Agent Systems**.
+- 🛠️ Building systems that can **reason, plan, and execute complex tasks**.
+- 🧠 Proficient in **LLM Orchestration, Prompt Engineering, and RAG**.
+- 💻 Technologies: **Python, LangChain, AutoGen, CrewAI, OpenAI, Hugging Face**.
+
+---
+
+<div align="center">
+  <h3>Connect with me:</h3>
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="YOUR_TWITTER_URL" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</div>
+
+
+
+
 <h1 align="center">Hey, I'm Ganesh Kubde 👋</h1> <h3 align="center">AI Engineer | Agentic AI • Multi-Agent Systems • RAG • LLM Engineering</h3> <p align="center"> Building production-grade multi-agent systems and advanced RAG pipelines for global enterprise clients. Microsoft Certified Azure AI Engineer Associate, specialized in agentic AI workflows, LangGraph orchestration, and LLM evaluation frameworks. </p>
 🌐 Connect with Me
 <p align="center"> <a href="https://www.linkedin.com/in/ganesh-kubde-045b74409/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:ganeshkubde1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/GaneshKubde"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
