@@ -1,6 +1,6 @@
 <div align="center">
 
-$ whoami // Ganesh Kubde
+# ✨ Welcome! I'm Ganesh Kubde
 
 ### AI Engineer | Agentic AI | Multi-Agent Systems | LangGraph | Azure OpenAI
 
@@ -128,24 +128,6 @@ Claude-powered code intelligence platform that understands legacy applications u
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=flat-square)
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GaneshKubde&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshKubde&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshKubde&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
