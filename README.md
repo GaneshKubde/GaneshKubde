@@ -1,7 +1,6 @@
 <div align="center">
 
-# $ whoami
-> Ganesh Kubde
+$ whoami // Ganesh Kubde
 
 ### AI Engineer | Agentic AI | Multi-Agent Systems | LangGraph | Azure OpenAI
 
