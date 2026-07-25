@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Ganesh Kubde | AI Engineer" width="100%" />
+  <img src="./bfde14c9-1fa7-4c24-bd48-e849c122f44e.png" alt="Ganesh Kubde Banner" width="100%" />
 </p>
-
 <h1 align="center">
 Hi, I'm Ganesh Kubde 👋
 </h1>
